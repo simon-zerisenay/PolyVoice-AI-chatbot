@@ -60,7 +60,6 @@ Enjoy using the "Polyvoice AI Chatbot" to explore the capabilities of modern AI 
 
 I'm the developer behind Developers Digest. If you find my work helpful or enjoy what I do, consider supporting me. Here are a few ways you can do that:
 
-- **Patreon**: Support me on Patreon at [patreon.com/DevelopersDigest](https://www.patreon.com/DevelopersDigest)
 - **Buy Me A Coffee**: You can buy me a coffee at [buymeacoffee.com/simonzerisU](https://www.buymeacoffee.com/simonzerisU)
 - **Website**: Check out my website at [simon-zerisenay.github.io/PersonalPortfolio/](https://simon-zerisenay.github.io/PersonalPortfolio/)
 - **Github**: Follow me on GitHub at [github.com/simon-zerisenay](https://github.com/simon-zerisenay)
