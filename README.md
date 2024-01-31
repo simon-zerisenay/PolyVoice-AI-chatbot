@@ -20,7 +20,7 @@ This project requires:
 - Perplexity API 
 - Langchain OpenAI
 - Ollama
-
+ 
 ### Environment Variables
 
 Before running the project, configure your API keys in the `.env` file:
