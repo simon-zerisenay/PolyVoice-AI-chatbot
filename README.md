@@ -17,7 +17,7 @@ This project requires:
 
 - Node.js
 - OpenAI API
-- Perplexity API
+- Perplexity API 
 - Langchain OpenAI
 - Ollama
 
