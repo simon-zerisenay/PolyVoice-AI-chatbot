@@ -10,7 +10,7 @@ Welcome to the Polyvoice AI Chatbot, an advanced voice recognition and response 
 - User-Friendly Interface: Easy-to-use interface with toggleable recording states for interaction control.
 
 ## Setup and Installation
-
+ 
 ### Dependencies
 
 This project requires:
