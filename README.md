@@ -14,7 +14,7 @@ Welcome to the Polyvoice AI Chatbot, an advanced voice recognition and response 
 ### Dependencies
  
 This project requires: 
- 
+  
 - Node.js
 - OpenAI API 
 - Perplexity API 
