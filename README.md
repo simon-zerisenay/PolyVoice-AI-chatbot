@@ -21,7 +21,7 @@ This project requires:
 - Langchain OpenAI
 - Ollama
  
-### Environment Variables
+### Environment Variables 
 
 Before running the project, configure your API keys in the `.env` file:
 
