@@ -9,7 +9,7 @@ import api from 'api';
 const sdk = api('@pplx/v0#rht322clnm9gt25');
  
 // 2. Configure environment variables 
-dotenv.config(); 
+dotenv.config();  
 sdk.auth(process.env.PERPLEXITY_API_KEY); 
 
 // 3. Define the response data structure
