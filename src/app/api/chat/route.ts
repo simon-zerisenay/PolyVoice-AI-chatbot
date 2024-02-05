@@ -16,7 +16,7 @@ sdk.auth(process.env.PERPLEXITY_API_KEY);
 interface ResponseData {  
     data: string;
     contentType: string;   
-    model: string;
+    model: string; 
 }
 
 // 4. Initialize the OpenAI instance
