@@ -19,7 +19,7 @@ interface ResponseData {
     model: string;  
 }
 
-// 4. Initialize the OpenAI instance
+// 4. Initialize the OpenAI instance 
 const openai = new OpenAI();
  
 // 5. Function to create audio from text
