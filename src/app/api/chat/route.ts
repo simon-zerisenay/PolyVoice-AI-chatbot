@@ -1,4 +1,4 @@
- // 0. Import Dependencies
+// 0. Import Dependencies
 import OpenAI from "openai";
 import dotenv from "dotenv";
 import { OpenAI as LangchainOpenAI } from "@langchain/openai";
