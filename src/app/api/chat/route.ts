@@ -14,7 +14,7 @@ sdk.auth(process.env.PERPLEXITY_API_KEY);
   
 // 3. Define the response data structure   
 interface ResponseData {   
-    data: string;
+    data: string; 
     contentType: string;     
     model: string;  
 }
