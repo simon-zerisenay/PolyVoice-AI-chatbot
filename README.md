@@ -11,7 +11,7 @@ Welcome to the Polyvoice AI Chatbot, an advanced voice recognition and response 
 
 ## Setup and Installation
   
-### Dependencies
+### Dependencies 
   
 This project requires: 
   
