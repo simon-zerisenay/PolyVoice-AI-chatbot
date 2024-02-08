@@ -13,7 +13,7 @@ dotenv.config();
 sdk.auth(process.env.PERPLEXITY_API_KEY);   
   
 // 3. Define the response data structure   
-interface ResponseData {   
+interface ResponseData {    
     data: string; 
     contentType: string;     
     model: string;  
