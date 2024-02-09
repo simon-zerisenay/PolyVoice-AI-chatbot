@@ -7,7 +7,7 @@ import api from 'api';
   
 // 1. Initialize the Perplexity SDK
 const sdk = api('@pplx/v0#rht322clnm9gt25'); 
-  
+   
 // 2. Configure environment variables  
 dotenv.config();  
 sdk.auth(process.env.PERPLEXITY_API_KEY);   
