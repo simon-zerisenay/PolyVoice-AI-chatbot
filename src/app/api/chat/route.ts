@@ -18,7 +18,7 @@ interface ResponseData {
     contentType: string;     
     model: string;  
 }
-
+ 
 // 4. Initialize the OpenAI instance 
 const openai = new OpenAI();
  
