@@ -24,7 +24,7 @@ const openai = new OpenAI();
  
 // 5. Function to create audio from text
 async function createAudio( fullMessage: string, voice: "alloy" | "echo" | "fable" | "onyx" | "nova" | "shimmer") {
-    const mp3 = await openai.audio.speech.create({
+    const mp3 = await openai.audio.speech.create({ 
         model: "tts-1",
         voice: voice,
         input: fullMessage,
