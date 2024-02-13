@@ -12,7 +12,7 @@ Welcome to the Polyvoice AI Chatbot, an advanced voice recognition and response 
 ## Setup and Installation
   
 ### Dependencies 
-   
+    
 This project requires:  
     
 - Node.js
