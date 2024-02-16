@@ -4,7 +4,7 @@ import dotenv from "dotenv";
 import { OpenAI as LangchainOpenAI } from "@langchain/openai";
 import { Ollama } from "@langchain/community/llms/ollama"; 
 import api from 'api';    
-  
+   
 // 1. Initialize the Perplexity SDK   
 const sdk = api('@pplx/v0#rht322clnm9gt25');     
       
