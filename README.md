@@ -6,7 +6,6 @@ Welcome to the Polyvoice AI Chatbot, an advanced voice recognition and response 
 
 - Advanced Voice Recognition: State-of-the-art voice recognition capabilities.
 - Seamless Integration: Works with various language models like GPT-3.5, GPT-4, and others.
-- Dynamic Response Generation: Intelligent response generation with both textual and audio output.
 - User-Friendly Interface: Easy-to-use interface with toggleable recording states for interaction control. 
  
 ## Setup and Installation
